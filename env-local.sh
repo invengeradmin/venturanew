@@ -1,0 +1,14 @@
+# Cloudbeds API Credentials
+CLOUDBEDS_API_KEY=cbat_hCiDnwb39RPQCbyQc8fUXvo6uJdL95wE
+CLOUDBEDS_PROPERTY_ID=197476
+CLOUDBEDS_CLIENT_ID=live1_197476_NCx1TldbGU0vZQW8cB9kMgYD
+CLOUDBEDS_CLIENT_SECRET=GVHfne8jqxbFiPdgJcAQaST6E7YIlrwK
+CLOUDBEDS_REDIRECT_URI=https://api.venturagrandinn.com/api/auth/callback
+
+# NextJS Environment
+NEXT_PUBLIC_SITE_URL=https://api.venturagrandinn.com
+NEXT_PUBLIC_API_BASE_URL=https://api.cloudbeds.com
+NEXT_PUBLIC_PROPERTY_ID=197476
+
+# Security
+JWT_SECRET=your_jwt_secret_here_change_this_in_production
